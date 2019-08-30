@@ -44,6 +44,6 @@ class Shoe
  def cobble(repaired)
    puts "The Shoe has been repaired"
  end 
- def cobble(new)
-   puts 
+# def cobble(new)
+#   puts 
 end 
