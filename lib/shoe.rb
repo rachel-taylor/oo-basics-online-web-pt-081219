@@ -21,6 +21,24 @@ class Shoe
    @material = material
  end 
  def material
-   @mamaterial
+   @material
+ end 
+ def condition=(condition)
+   @condition = condition
+ end 
+ def condition
+   @condition
+ end 
+ def cobble=(cobble)
+   @cobble = cobble
+ end 
+ def cobble
+   @cobble
+ end 
+ def condition=(condition)
+   @condition = condition
+ end 
+ def condition
+   @condition
  end 
 end 
