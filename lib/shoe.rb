@@ -29,12 +29,12 @@ class Shoe
  def condition
    @condition
  end 
- def cobble=(cobble)
-   @cobble = cobble
- end 
- def cobble
-   @cobble
- end 
+# def cobble=(cobble)
+#   @cobble = cobble
+# end 
+# def cobble
+#   @cobble
+# end 
  def condition=(condition)
    @condition = condition
  end 
