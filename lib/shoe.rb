@@ -41,13 +41,4 @@ class Shoe
  def condition
    @condition
  end 
- def cobble(repaired)
-   if cobble = "repaired"
-   puts "The Shoe has been repaired"
- elseif 
-   puts New
- end 
- end 
-# def cobble(new)
-#   puts 
 end 
