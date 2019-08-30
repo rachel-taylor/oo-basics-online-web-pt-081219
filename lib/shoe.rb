@@ -47,6 +47,7 @@ class Shoe
  elseif 
    puts New
  end 
+ end 
 # def cobble(new)
 #   puts 
 end 
